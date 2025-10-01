@@ -1,0 +1,1 @@
+docker build -t artifactory.kasikornbank.com:8443/artifactory/dso-2-721-18-docker/cxwrapper-static:1.1.4 .
